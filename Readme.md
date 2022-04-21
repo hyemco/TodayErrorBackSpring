@@ -53,6 +53,7 @@
 ## 🧩 아키텍처
 <img src="https://user-images.githubusercontent.com/67248249/163121619-6a2665cb-c4a7-45ba-9743-191b5031410a.png" width="800"> 
 
+
 ## 💡 Trouble Shooting
 <details>
 <summary>1. Header에 담긴 JWT Token을 디코딩하는 중 유효하지 않은 토큰이라는 Exception 발생하는 문제</summary>
